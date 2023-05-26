@@ -1,0 +1,29 @@
+body
+{
+background-size: cover;
+background-position: center;
+font-family: "Comic Sans MS"
+}
+
+.heading
+{
+font-size: 24px;
+width: 100%;
+margin: 1px;
+
+}
+
+#status,#Number_of_object,#start_model
+{
+font-size: 18px;
+border : 1px solid crimson;
+border-radius: 10px;
+box-shadow: 5px 5px 5px darkgrey;
+}
+
+canvas
+{
+box-shadow: 10px 10px 10px grey;
+border-radius: 10px;
+margin-top: 30px;
+}
